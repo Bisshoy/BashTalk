@@ -31,10 +31,4 @@ while [ "$response" != "EXIT" ]; do
 	fi
 done
 
-#End of program
-
-
-
-
-
-
+#End of program 
